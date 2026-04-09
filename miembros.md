@@ -23,3 +23,4 @@
 21. Giganta
 22. Deadshot
 23. Harley Quinn
+24. ScareCrow
